@@ -1,0 +1,112 @@
+nohup: ignoring input
+[LightGBM] [Info] Number of positive: 46377, number of negative: 121034
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.698197 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1528
+[LightGBM] [Info] Number of data points in the train set: 167411, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.277025 -> initscore=-0.959268
+[LightGBM] [Info] Start training from score -0.959268
+(280, 8)
+(280,)
+Shape of adversarial data splits.
+(343, 8)
+(343,)
+Shape of adv data splits reshaped.
+(343, 8)
+(343,)
+Voting phase: Adversarial attack to model [0]
+[LightGBM] [Info] Number of positive: 35599, number of negative: 90709
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 1.077703 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1530
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.281843 -> initscore=-0.935339
+[LightGBM] [Info] Start training from score -0.935339
+[LightGBM] [Info] Number of positive: 35726, number of negative: 90582
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.470853 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1530
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.282848 -> initscore=-0.930377
+[LightGBM] [Info] Start training from score -0.930377
+[LightGBM] [Info] Number of positive: 35671, number of negative: 90637
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.459634 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1530
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.282413 -> initscore=-0.932524
+[LightGBM] [Info] Start training from score -0.932524
+[LightGBM] [Info] Number of positive: 35755, number of negative: 90553
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.498931 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1529
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.283078 -> initscore=-0.929245
+[LightGBM] [Info] Start training from score -0.929245
+[LightGBM] [Info] Number of positive: 35635, number of negative: 90673
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.648946 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1529
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.282128 -> initscore=-0.933931
+[LightGBM] [Info] Start training from score -0.933931
+ENTRENAMIENTO: Split 0: Recall Coordinator 1 => 0.6571428571428571
+ENTRENAMIENTO: Split 0: Recall Coordinator 2 => 0.638095238095238
+ENTRENAMIENTO: Split 0: Recall Coordinator 3 => 0.8095238095238095
+ENTRENAMIENTO: Split 0: Recall Coordinator 4 => 0.7333333333333333
+ENTRENAMIENTO: Split 0: Recall Coordinator 5 => 0.638095238095238
+ENTRENAMIENTO: Split 0: Recall Models Coordinator 1 => [0.8359941944847605, 0.7846441947565543, 0.8408239700374532, 0.850187265917603, 0.8445692883895131]
+ENTRENAMIENTO: Split 0: Recall Models Coordinator 2 => [0.8901408450704226, 0.8382126348228043, 0.9029275808936826, 0.9044684129429892, 0.8998459167950693]
+ENTRENAMIENTO: Split 0: Recall Models Coordinator 3 => [0.9381818181818182, 0.8412942989214176, 0.9060092449922958, 0.9060092449922958, 0.901386748844376]
+ENTRENAMIENTO: Split 0: Recall Models Coordinator 4 => [0.9309090909090909, 0.8382126348228043, 0.9029275808936826, 0.9044684129429892, 0.8998459167950693]
+ENTRENAMIENTO: Split 0: Recall Models Coordinator 5 => [0.9309090909090909, 0.8382126348228043, 0.9029275808936826, 0.9029275808936826, 0.8998459167950693]
+[LightGBM] [Info] Number of positive: 35829, number of negative: 90479
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.494342 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1529
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.283664 -> initscore=-0.926360
+[LightGBM] [Info] Start training from score -0.926360
+[LightGBM] [Info] Number of positive: 35865, number of negative: 90443
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.556471 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1529
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.283949 -> initscore=-0.924958
+[LightGBM] [Info] Start training from score -0.924958
+[LightGBM] [Info] Number of positive: 35696, number of negative: 90612
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.688268 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1530
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.282611 -> initscore=-0.931548
+[LightGBM] [Info] Start training from score -0.931548
+[LightGBM] [Info] Number of positive: 35655, number of negative: 90653
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.649230 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1530
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.282286 -> initscore=-0.933150
+[LightGBM] [Info] Start training from score -0.933150
+[LightGBM] [Info] Number of positive: 35708, number of negative: 90600
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.477641 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1530
+[LightGBM] [Info] Number of data points in the train set: 126308, number of used features: 8
+[LightGBM] [Info] [binary:BoostFromScore]: pavg=0.282706 -> initscore=-0.931079
+[LightGBM] [Info] Start training from score -0.931079
+ENTRENAMIENTO: Split 1: Recall Coordinator 1 => 0.7089783281733746
+ENTRENAMIENTO: Split 1: Recall Coordinator 2 => 0.7018348623853211
+ENTRENAMIENTO: Split 1: Recall Coordinator 3 => 0.8165137614678899
+ENTRENAMIENTO: Split 1: Recall Coordinator 4 => 0.7752293577981652
+ENTRENAMIENTO: Split 1: Recall Coordinator 5 => 0.6880733944954128
+ENTRENAMIENTO: Split 1: Recall Models Coordinator 1 => [0.8538587848932676, 0.7033707865168539, 0.7438202247191011, 0.7910112359550562, 0.7865168539325843]
+ENTRENAMIENTO: Split 1: Recall Models Coordinator 2 => [0.8582930756843801, 0.7970479704797048, 0.8450184501845018, 0.8634686346863468, 0.8653136531365314]
+ENTRENAMIENTO: Split 1: Recall Models Coordinator 3 => [0.9206128133704735, 0.8044280442804428, 0.8616236162361623, 0.8726937269372693, 0.8690036900369004]
+ENTRENAMIENTO: Split 1: Recall Models Coordinator 4 => [0.9122562674094707, 0.7952029520295203, 0.8376383763837638, 0.8616236162361623, 0.8726937269372693]
+ENTRENAMIENTO: Split 1: Recall Models Coordinator 5 => [0.9122562674094707, 0.7970479704797048, 0.8431734317343174, 0.8560885608856088, 0.8671586715867159]
+Voting phase: Adversarial attack to model [4]
+[LightGBM] [Info] Number of positive: 35731, number of negative: 90577
+[LightGBM] [Info] Auto-choosing col-wise multi-threading, the overhead of testing was 0.300269 seconds.
+You can set `force_col_wise=true` to remove the overhead.
+[LightGBM] [Info] Total Bins 1529
